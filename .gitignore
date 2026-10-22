@@ -1,0 +1,5 @@
+data/clones/
+data/apps/
+__pycache__/
+.pytest_cache/
+.venv/
